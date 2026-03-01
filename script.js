@@ -587,10 +587,10 @@ scene.add(planet);
 
 //Ganti Deskripsi Planet
 const ringTexts = [
-  "Woi cianjur",//untuk deskripsi planet layer 1
+  "maafff :>",//untuk deskripsi planet layer 1
   "km suka kodok?",//untuk deskripsi planet layer 2
-  "stop bilang venom",//untuk deskripsi planet layer 3
-  "Hehe bercanda(⁠⁠╹⁠▽⁠╹⁠⁠)",//untuk deskripsi planet layer 4
+  "mabar epep",//untuk deskripsi planet layer 3
+  "Hehe(⁠⁠╹⁠▽⁠╹⁠⁠)",//untuk deskripsi planet layer 4
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
